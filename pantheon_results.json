@@ -1,0 +1,15 @@
+{
+  "vibe": "Test",
+  "status": "queued",
+  "message": "Pantheon agents activated. Processing...",
+  "phases": {
+    "plan": "Planning phase initiated...",
+    "architecture": "Designing architecture...",
+    "ui_design": "Creating UI/UX...",
+    "database": "Modeling data...",
+    "code": "Generating code...",
+    "testing": "Writing tests...",
+    "security": "Auditing security...",
+    "documentation": "Creating docs..."
+  }
+}
